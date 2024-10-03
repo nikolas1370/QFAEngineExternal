@@ -10,5 +10,6 @@ Put all folders in QFAEngine/External/.<br><br></h1>
   <li>icuuc74.dll</li>
 </ol> 
 
-Need install VulkanSDK can download <a href="https://vulkan.lunarg.com/">here</a>
+Need install VulkanSDK can download <a href="https://vulkan.lunarg.com/">here</a><br>
+Include Vulkan Memory Allocator header and GLM header<br>
 Not forget change path in Property if update VulkanSDK.
